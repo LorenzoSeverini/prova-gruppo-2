@@ -22,5 +22,13 @@
             </div>
         </div>
     </div>
+    <div class="row">
+        {{-- some links  --}}
+        <ul>
+            <li><a href="#">Ciao</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Boolean95</a></li>
+        </ul>
+    </div>
 </div>
 @endsection
