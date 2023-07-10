@@ -21,7 +21,7 @@
 
 <div class="content">
     <div class="container">
-        <p>Buongiorno a tutti classe 95</p>
+        <p>Buongiorno a tutti classe 100</p>
     </div>
 </div>
 @endsection
