@@ -32,13 +32,13 @@
 
                             <li class="nav-item">
                                 <a class="nav-link text-white" href="/">
-                                    <i class="fa-solid fa-home-alt fa-lg fa-fw"></i> Home
+                                    <i class="fa-solid fa-home-alt fa-lg fa-fw"></i> Home ciao ciao ciao
                                 </a>
                             </li>
 
                             <li class="nav-item">
                                 <a class="nav-link text-white" href="/">
-                                    <i class="fa-solid fa-home-alt fa-lg fa-fw"></i> Home2 modifica 
+                                    <i class="fa-solid fa-home-alt fa-lg fa-fw"></i> Home2 modifica  ciao
                                 </a>
                             </li>
 
