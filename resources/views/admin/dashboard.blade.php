@@ -15,6 +15,9 @@
                     @endif
 
                     {{ __('You are logged in!') }}
+                    {{-- button to show something --}}
+                    <a href="{{ route('admin.show') }}" class="btn btn-primary">Show</a>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit ducimus hic quam consequuntur modi, quas a consectetur quae, minima nobis veritatis esse fuga magni doloribus facere id voluptatibus nemo adipisci?</p>
                 </div>
             </div>
         </div>
